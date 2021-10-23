@@ -52,7 +52,7 @@ conf.get_default().monitor_thread = False
 
 
 
-http_tunnel = ngrok.connect(addr='8080', proto='http', bind_tls=True)
+# http_tunnel = ngrok.connect(addr='8080', proto='http', bind_tls=True)
 
 
 
